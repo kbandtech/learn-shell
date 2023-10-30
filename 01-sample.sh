@@ -1,3 +1,6 @@
-test=100
-if [["${test}" == "test"]] ; then
-ls
+# Hello World!
+# ls
+ls 
+ls -l
+ls -l /opt
+
